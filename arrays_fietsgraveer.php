@@ -1,0 +1,3 @@
+$maanden = array("januari","februari","maart","april","mei","juni","juli","augustus","september","oktober","november","december");
+$weekdagen = array("maandag","dinsdag","woensdag","donderdag","vrijdag","zaterdag","zondag");
+$letters= array ('a','b','c','d','e','f','g','h','i','j','k','m','n','p','q','r','s','t','u','v','w','x','y','z','A','B','C','D','E','F','G','H','J','K','L','M','N','P','Q','R','S','T','U','V','W','X','Y','Z');  
